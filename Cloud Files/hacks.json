@@ -1,0 +1,35 @@
+[
+    {
+        "id": 25,
+        "name": "nonagon v2",
+        "description": "idk",
+        "author": "nonagonzone",
+        "status": "free",
+        "process": "cs2.exe",
+        "file": "nonagon_v2.dll",
+        "source": "https://google.com",
+        "game": "CS2"
+    },
+    {
+        "id": 26,
+        "name": "AimWare (CS2)",
+        "description": "idk",
+        "author": "en1gma",
+        "status": "crack",
+        "process": "cs2.exe",
+        "file": "aimware_cs2.dll",
+        "source": "https://t.me/animstate/317",
+        "game": "CS2"
+    },
+    {
+        "id": 27,
+        "name": "Osiris",
+        "description": "Counter-Strike 2 hack with Panorama-based GUI",
+        "author": "danielkrupinski",
+        "status": "open-source",
+        "process": "cs2.exe",
+        "file": "Osiris.dll",
+        "source": "https://github.com/danielkrupinski/Osiris",
+        "game": "CS2"
+    }
+]
