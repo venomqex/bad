@@ -143,17 +143,6 @@
         "game": "CS:GO"
     },
     {
-        "id": 27,
-        "name": "FlakeTeam",
-        "description": "Counter-Strike 2 free cheat",
-        "author": "srxmachine",
-        "status": "free",
-        "process": "cs2.exe",
-        "file": "flaketeam.dll",
-        "source": "https://github.com/danielkrupinski/Osiris",
-        "game": "CS2"
-    },
-    {
         "id": 25,
         "name": "nonagon v2",
         "description": "idk",
@@ -185,5 +174,27 @@
         "file": "Osiris.dll",
         "source": "https://github.com/danielkrupinski/Osiris",
         "game": "CS2"
+    },
+    {
+        "id": 27,
+        "name": "FlakeTeam",
+        "description": "Counter-Strike 2 free cheat",
+        "author": "srxmachine",
+        "status": "free",
+        "process": "cs2.exe",
+        "file": "flaketeam.dll",
+        "source": "https://discord.gg/mxwwV6m9gW",
+        "game": "CS2"
+    },
+    {
+        "id": 29,
+        "name": "skeet",
+        "description": "idk",
+        "author": "QHide",
+        "status": "crack",
+        "process": "csgo.exe",
+        "file": "skeet.dll",
+        "source": "https://yougame.biz/threads/338779/",
+        "game": "CS:GO"
     }
 ]
