@@ -45,12 +45,12 @@
 //m_iszPlayerName
 0x660
 //m_pActionTrackingServices
-0x730
+0x1538
 //m_iNumRoundKills
 0x110
 //m_unTotalRoundDamageDealt
 0x118
 //m_AttributeManager + m_Item + m_iItemDefinitionIndex
-0x1352
+0x1332
 //m_angEyeAngles
 0x1438
