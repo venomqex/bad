@@ -176,17 +176,6 @@
         "game": "CS2"
     },
     {
-        "id": 27,
-        "name": "FlakeTeam",
-        "description": "Counter-Strike 2 free cheat",
-        "author": "srxmachine",
-        "status": "free",
-        "process": "cs2.exe",
-        "file": "flaketeam.dll",
-        "source": "https://discord.gg/mxwwV6m9gW",
-        "game": "CS2"
-    },
-    {
         "id": 29,
         "name": "skeet",
         "description": "idk",
